@@ -21,11 +21,11 @@
 ---
 #### 一.计算机-软件基础知识
 
-1. 深入理解计算机系统 
+1. 深入理解计算机系统   
 必修课，NB学校的NB课程的NB教材
 https://book.douban.com/subject/1896753/
 
-2. 代码大全（不要被这个名字吓到，英文叫做 Code complete）
+2. 代码大全（不要被这个名字吓到，英文叫做 Code complete）   
 微软的书，几乎可以当作是软件工程的百科全书。很少有人完全精通甚至完成这本书中所有部分的学习和体悟。很多其他名书（例如重构、人月神话等）在这里都有提及。
 https://book.douban.com/subject/1951158/
 
@@ -144,7 +144,7 @@ https://www.producthunt.com/
 https://www.indiehackers.com/
 
 ---
-##第六部分：工具和其他有用的网站
+## 第六部分：工具和其他有用的网站
 ---
 
 1. starup-marketing
