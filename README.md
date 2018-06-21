@@ -1,11 +1,13 @@
 
 ## 本页将会长期维护和更新。
 希望以下的信息能有机会帮助到你。
-
+(
 
 ----------
-更多信息，可关注微信公众号：花腔书生
+更多信息，可关注微信公众号：花腔书生   
 
+
+github项目地址：https://github.com/Ceprano/moneypage  
 
 ---
 当前包括：
@@ -51,7 +53,8 @@ https://book.douban.com/subject/26435630/
 https://book.douban.com/subject/1476651/
 
 3. 传播学原理   
-
+传播学概论   
+https://book.douban.com/subject/5360659/
 
 4. 营销管理   
 做Marketing的基础学科   
@@ -73,6 +76,10 @@ https://www.zbj.com/
 3. freelancer   
 外国赏金猎人网站，美刀好赚。   
 http://freelancer.com
+
+4.oschina   
+开源中国的众包平台    
+https://zb.oschina.net/   
 
 #### 二. 咨询
 
@@ -143,6 +150,10 @@ https://www.producthunt.com/
 独立骇客，许多国内的翻译文章的文章源。  
 https://www.indiehackers.com/  
 
+4. Failory  
+讲述了一些创业失败的故事和细节，可以开拓眼界。   
+https://www.failory.com/  
+
 ---
 ## 第六部分：工具和其他有用的网站
 ---
@@ -156,8 +167,10 @@ http://dida365.com
 
 3. 人人都是产品经理  
 产品经理社区，进阶产品理论。   
-http://woshipm.com
+http://woshipm.com   
 
-
+4. MBAlib   
+mba智库帮你补充mba知识。   
+http://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5
 
 ---
