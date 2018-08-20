@@ -40,6 +40,10 @@ https://book.douban.com/subject/25965995/
 最菜的菜鸟，也能学习的地方。   
 http://www.runoob.com/
 
+5. W3CSchool   
+最早的学习写代码的网站
+https://www.w3cschool.cn/  
+
 
 #### 二.其他学科知识
 这个比较多，包含心理学、传播学、Marketing、经济学等等
@@ -59,6 +63,11 @@ https://book.douban.com/subject/5360659/
 4. 营销管理   
 做Marketing的基础学科   
 https://book.douban.com/subject/26879263/
+
+4. 管理精力,而非时间·互联网+时代顺势腾飞的关键    
+管理好个人精力，使得精力充沛，才能管理好工作和生活   
+https://book.douban.com/subject/26879263/
+
 
 ---
 ## 第二部分：渠道和方式
@@ -133,6 +142,10 @@ https://themeforest.net/
 1. 一些独立开发者和远程工作者做产品盈利的故事  
 https://www.diycode.cc/topics/964  
 
+
+
+2. 1年的独立开发者生活  
+https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ  
 ---
 ## 第五部分：独立开发者和项目推荐
 ---
