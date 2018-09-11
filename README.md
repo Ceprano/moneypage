@@ -1,11 +1,10 @@
 
 ## 本页将会长期维护和更新。
 希望以下的信息能有机会帮助到你。
+鉴于很多人需要这个方面的知识和帮助，接下来争取每天都有更新。
 
-
+20180911今日更新（百万富翁快车道、一早一晚社区、百度站点管理）
 ----------
-更多信息，可关注微信公众号：花腔书生   
-
 
 github项目地址：https://github.com/Ceprano/moneypage  
 
@@ -45,7 +44,7 @@ http://www.runoob.com/
 https://www.w3cschool.cn/  
 
 
-#### 二.其他学科知识
+#### 二.其他学科知识和书
 这个比较多，包含心理学、传播学、Marketing、经济学等等
 
 1. 经济学原理   
@@ -64,10 +63,13 @@ https://book.douban.com/subject/5360659/
 做Marketing的基础学科   
 https://book.douban.com/subject/26879263/
 
-4. 管理精力,而非时间·互联网+时代顺势腾飞的关键    
+5. 管理精力,而非时间·互联网+时代顺势腾飞的关键    
 管理好个人精力，使得精力充沛，才能管理好工作和生活   
 https://book.douban.com/subject/26879263/
 
+6. 百万富翁快车道    
+改变观念的一本书   
+https://book.douban.com/subject/27041645/
 
 ---
 ## 第二部分：渠道和方式
@@ -185,5 +187,18 @@ http://woshipm.com
 4. MBAlib   
 mba智库帮你补充mba知识。   
 http://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5
+
+5. 一早一晚   
+只工作，不上班。   
+http://www.yizaoyiwan.com   
+
+6. 百度站点管理
+站点管理工具   
+https://ziyuan.baidu.com/site   
+
+
+
+
+
 
 ---
