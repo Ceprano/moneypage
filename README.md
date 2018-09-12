@@ -6,199 +6,85 @@
 20180911今日更新（百万富翁快车道、一早一晚社区、百度站点管理）
 ----------
 
-github项目地址：https://github.com/Ceprano/moneypage  
+[github项目地址](https://github.com/Ceprano/moneypage)
 
----
-当前包括：
-===
-第一部分：基础知识(菜鸟可看rookie向，老鸟请掠过）   
-第二部分：渠道和方式（只要包含兼职写码，或者与码相关的周边工作）   
-第三部分：变现平台（做一个项目，持续提供价值输出，持续获取财富）   
-第四部分：文章推荐   
-第五部分：独立开发者和项目推荐   
-第六部分：工具和有用的网站   
+- [知识](#知识)
+ - [计算机知识](#计算机知识)
+ - [其他学科知识](#其他学科知识)
+- [渠道和方式](#渠道和方式)
+- [变现平台](#变现平台)
+- [文章推荐](#文章推荐)
+- [独立和远程开发者相关项目推荐](#独立和远程开发者相关项目推荐)
+- [工具](#工具)
+- [有用的书](#有用的书)
+- [有用的网站](#有用的网站)
+# 知识
+### 计算机知识
 
-## 第一部分：基础知识
----
-#### 一.计算机-软件基础知识
-
-1. 深入理解计算机系统   
-必修课，NB学校的NB课程的NB教材   
-https://book.douban.com/subject/1896753/
-
-2. 代码大全（不要被这个名字吓到，英文叫做 Code complete）   
-微软的书，几乎可以当作是软件工程的百科全书。很少有人完全精通甚至完成这本书中所有部分的学习和体悟。很多其他名书（例如重构、人月神话等）在这里都有提及。   
-https://book.douban.com/subject/1951158/
-
-3. 构建之法   
-不涉及具体技术，但是讲究软件工程中的各种微妙处理，人情世故。   
+- [深入理解计算机系统](https://book.douban.com/subject/1896753/)-必修课，NB学校的NB课程的NB教材   
+- [代码大全](https://book.douban.com/subject/1951158/)-（不要被这个名字吓到，英文叫做 Code complete）微软的书，几乎可以当作是软件工程的百科全书。很少有人完全精通甚至完成这本书中所有部分的学习和体悟。很多其他名书（例如重构、人月神话等）在这里都有提及。
+- [构建之法](https://book.douban.com/subject/25965995/)不涉及具体技术，但是讲软件工程中的各种微妙处理，人情世故。   
 作者是微软Windows中国工程团队首席研发总监邹欣。   
-https://book.douban.com/subject/25965995/
+- [Runoob](http://www.runoob.com/)-最菜的菜鸟，也能学习的地方。   
+- [W3CSchool](https://www.w3cschool.cn/)-最早的学习写代码的网站
+###其他学科知识
+- [经济学原理](https://book.douban.com/subject/26435630/)-想赚钱又不想了解经济学原理，赚到的可能很快就溜走。不解释了。 
+- [社会心理学](https://book.douban.com/subject/1476651/)-美国心理学教材。
+- [传播学原理](https://book.douban.com/subject/5360659/)-传播学概论。
+- [营销管理](https://book.douban.com/subject/26879263/)-做Marketing的基础学科
 
-4. Runoob（rookie向）   
-最菜的菜鸟，也能学习的地方。   
-http://www.runoob.com/
+# 渠道和方式
+### 兼职
 
-5. W3CSchool   
-最早的学习写代码的网站
-https://www.w3cschool.cn/  
+- [程序员客栈](https://www.proginn.com/)-程序员的经纪人，对接程序员和项目。
+- [猪八戒](https://www.zbj.com/)-接兼职项目，适合菜鸟。
+- [freelancer](http://freelancer.com)-外国赏金猎人网站，美刀好赚。   
+- [oschina](https://zb.oschina.net/)-开源中国的众包平台.
 
+### 咨询
 
-#### 二.其他学科知识和书
-这个比较多，包含心理学、传播学、Marketing、经济学等等
+- [在行](http://www.zaih.com/)-知识分享平台。
 
-1. 经济学原理   
-想赚钱又不想了解经济学原理，赚到的可能很快就溜走。不解释了。   
-https://book.douban.com/subject/26435630/
+### 出版
 
-2. 社会心理学   
-美国心理学教材   
-https://book.douban.com/subject/1476651/
+- [豆瓣阅读](http://read.douban.com/)-可以发布电子书的平台。   
+- [极客时间](https://time.geekbang.org/)-CTO级别的blog平台。
 
-3. 传播学原理   
-传播学概论   
-https://book.douban.com/subject/5360659/
+### 做教程
+- [慕课网](https://www.imooc.com/)-技术课程为主的教程平台.   
+- [CSDN学院](https://edu.csdn.net/)-csdn的网课。
 
-4. 营销管理   
-做Marketing的基础学科   
-https://book.douban.com/subject/26879263/
+# 变现平台
 
-5. 管理精力,而非时间·互联网+时代顺势腾飞的关键    
-管理好个人精力，使得精力充沛，才能管理好工作和生活   
-https://book.douban.com/subject/26879263/
-
-6. 百万富翁快车道    
-改变观念的一本书   
-https://book.douban.com/subject/27041645/
-
----
-## 第二部分：渠道和方式
----
-#### 一.兼职
-
-1. 程序员客栈   
-程序员的经纪人，对接程序员和项目。   
-https://www.proginn.com/
-
-2. 猪八戒   
-接兼职项目，适合菜鸟。   
-https://www.zbj.com/
-
-3. freelancer   
-外国赏金猎人网站，美刀好赚。   
-http://freelancer.com
-
-4.oschina   
-开源中国的众包平台    
-https://zb.oschina.net/   
-
-#### 二. 咨询
-
-1. 在行   
-知识分享平台。   
-http://www.zaih.com/
-
-#### 三. 出版
-
-1. 豆瓣阅读   
-可以发布电子书的平台。   
-http://read.douban.com/
-
-2. 极客时间   
-CTO级别的blog平台。   
-https://time.geekbang.org/
-
-#### 四. 做教程
-
-1. 慕课网   
-技术课程为主的教程平台   
-https://www.imooc.com/
-
-2. CSDN学院   
-csdn的网课   
-https://edu.csdn.net/
+- [apple appstore](https://www.apple.com/ios/app-store/)-2017年上半年，流水49亿美元。   
+- [Atlassian](https://www.atlassian.com)-Jira\trello\bitbucket\confluence是这个公司的产品。
+- [主题森林](https://themeforest.net)-付费主题、付费插件等等。
 
 
-----
-## 第三部分：变现平台（自有项目，SaaS）
-----
+# 文章推荐
 
-1. apple appstore   
-2017年上半年，流水49亿美元。   
-https://www.apple.com/ios/app-store/
+- [一些独立开发者和远程工作者做产品盈利的故事](https://www.diycode.cc/topics/964)
+- [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
 
-2. Atlassian   
-Jira\trello\bitbucket\confluence是这个公司的产品     
-这些产品有大量的插件提供商     
-https://www.atlassian.com/  
+# 独立和远程开发者相关项目推荐
 
-3. 主题森林   
-付费主题、付费插件等等    
-https://themeforest.net/  
+- [湾区日报](http://wanqu.co)-一个华人工程师的英文文章分享平台。
+- [ProductHunt](https://www.producthunt.com/)-Discover your next favorite thing.这里有许多新的有意思的项目。  
+- [IndieHacker](https://www.indiehackers.com/)-独立骇客，许多国内的翻译文章的文章源。
+- [Failory](https://www.failory.com)-讲述了一些创业失败的故事和细节，可以开拓眼界。
+- [starup-marketing](http://www.startup-marketing.com/the-startup-pyramid/)
 
-
-----
-## 第四部分：文章推荐
----
-
-1. 一些独立开发者和远程工作者做产品盈利的故事  
-https://www.diycode.cc/topics/964  
+# 工具
+- [滴答清单](http://dida365.com)-可以用来管理任务，全平台支持。
 
 
-
-2. 1年的独立开发者生活  
-https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ  
----
-## 第五部分：独立开发者和项目推荐
----
-
-1. 湾区日报  
-一个华人工程师的英文文章分享平台。  
-http://wanqu.co
-
-2. ProductHunt  
-Discover your next favorite thing.  
-这里有许多新的有意思的项目。  
-https://www.producthunt.com/  
-
-3. IndieHacker  
-独立骇客，许多国内的翻译文章的文章源。  
-https://www.indiehackers.com/  
-
-4. Failory  
-讲述了一些创业失败的故事和细节，可以开拓眼界。   
-https://www.failory.com/  
-
----
-## 第六部分：工具和其他有用的网站
----
-
-1. starup-marketing  
-http://www.startup-marketing.com/the-startup-pyramid/
-
-2. 滴答清单  
-可以用来管理任务，全平台支持。   
-http://dida365.com
-
-3. 人人都是产品经理  
-产品经理社区，进阶产品理论。   
-http://woshipm.com   
-
-4. MBAlib   
-mba智库帮你补充mba知识。   
-http://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5
-
-5. 一早一晚   
-只工作，不上班。   
-http://www.yizaoyiwan.com   
-
-6. 百度站点管理
-站点管理工具   
-https://ziyuan.baidu.com/site   
+# 有用的书
+- [精力管理](https://book.douban.com/subject/26879263/)-管理好个人精力，使得精力充沛，才能管理好工作和生活
+- [百万富翁快车道](https://book.douban.com/subject/27041645/)-改变观念的一本书
 
 
-
-
-
-
----
+# 有用的网站
+- [MBAlib](http://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)-mba智库帮你补充mba知识。
+- [人人都是产品经理](http://woshipm.com)-产品经理社区，进阶产品理论。
+- [一早一晚](http://www.yizaoyiwan.com)-只工作，不上班。
+- [百度站点管理](https://ziyuan.baidu.com/site)-站点管理工具
