@@ -1,7 +1,6 @@
 <h1 align="center">程序员赚钱资源汇总</h1>
 本页将会长期维护和更新。  
-下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。
-![ESBI四象限](http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
+下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。(http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
 
 
 ---
