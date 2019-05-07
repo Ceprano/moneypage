@@ -1,6 +1,8 @@
 <h1 align="center">程序员赚钱资源汇总</h1>
 本页将会长期维护和更新。  
-希望以下的信息能有机会帮助到你。
+下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。
+![ESBI四象限](http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
+
 
 ---
 # 置顶
@@ -9,8 +11,8 @@
 - [程序员赚赚知识星球（待完成）](#)
 
 
+# 目录
 
----
 
 
 - [知识](#知识)
@@ -19,7 +21,6 @@
 - [渠道和方式](#渠道和方式)
 - [变现平台](#变现平台)
 - [文章推荐](#文章推荐)
-- [独立和远程开发者相关项目推荐](#独立和远程开发者相关项目推荐)
 - [工具](#工具)
 - [有用的书](#有用的书)
 - [有用的网站](#有用的网站)
@@ -73,13 +74,6 @@
 - [一些独立开发者和远程工作者做产品盈利的故事](https://www.diycode.cc/topics/964)
 - [1年的独立开发者生活](https://mp.weixin.qq.com/s/aTZ8jW26hOYFFb2GGd9MmQ)
 
-# 独立和远程开发者相关项目推荐
-
-- [湾区日报](http://wanqu.co)-一个华人工程师的英文文章分享平台。
-- [ProductHunt](https://www.producthunt.com/)-Discover your next favorite thing.这里有许多新的有意思的项目。  
-- [IndieHacker](https://www.indiehackers.com/)-独立骇客，许多国内的翻译文章的文章源。
-- [Failory](https://www.failory.com)-讲述了一些创业失败的故事和细节，可以开拓眼界。
-- [starup-marketing](http://www.startup-marketing.com/the-startup-pyramid/)
 
 # 工具
 - [滴答清单](http://dida365.com)-可以用来管理任务，全平台支持。
@@ -98,3 +92,10 @@
 - [人人都是产品经理](http://woshipm.com)-产品经理社区，进阶产品理论。
 - [一早一晚](http://www.yizaoyiwan.com)-只工作，不上班。
 - [百度站点管理](https://ziyuan.baidu.com/site)-站点管理工具
+- [StevenBlank官网](http://stevenblank.com)-创新大师四部创业法的作者StevenBlank的官网。
+- [湾区日报](http://wanqu.co)-一个华人工程师的英文文章分享平台。
+- [ProductHunt](https://www.producthunt.com/)-Discover your next favorite thing.这里有许多新的有意思的项目。  
+- [IndieHacker](https://www.indiehackers.com/)-独立骇客，许多国内的翻译文章的文章源。
+- [Failory](https://www.failory.com)-讲述了一些创业失败的故事和细节，可以开拓眼界。
+- [starup-marketing](http://www.startup-marketing.com/the-startup-pyramid/)-创业市场营销相关内容
+- [Udacity](http://cn.udacity.com)-互联网技术产品等相关教程
