@@ -1,13 +1,21 @@
-<h1 align="center">程序员赚钱资源汇总</h1>
+<h1 align="center">程序员赚钱资源汇总(v.20191214)</h1>
+
 本页将会长期维护和更新。  
-下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。(http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
+下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。  
+
+![ESBI](http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
 
 
 ---
 # 置顶
 
-- [程序员财富自由全剖析（待完成）](#)
-- [程序员赚赚知识星球（待完成）](#)
+
+
+- [码上生财知识星球](https://t.zsxq.com/aamMJYz) - 自己动手，丰衣足食
+
+![码上生财](progrmb.png)
+
+- [NeedABC](https://www.needabc.com) - 从零到一的各种理论知识
 
 
 # 目录
