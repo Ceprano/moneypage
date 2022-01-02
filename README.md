@@ -1,9 +1,7 @@
-<h1 align="center">程序员赚钱资源汇总(v.20191214)</h1>
+<h1 align="center">程序员生财有术汇总(v.20220102)</h1>
 
 本页将会长期维护和更新。  
-下图是ESBI四象限，希望你能早日利用BI象限的能力创造更多的价值和money。  
-
-![ESBI](http://arijitghosh.com/uploads/3/9/3/0/3930825/5922274_orig.jpg)
+我们的社群是知识星球-"码上生财"，欢迎大家来玩。
 
 
 # 置顶
@@ -11,10 +9,7 @@
 
 
 - [码上生财知识星球](https://t.zsxq.com/aamMJYz) - 自己动手，丰衣足食
-
-![码上生财](progrmb.png)
-
-- [NeedABC](https://www.needabc.com) - 从零到一的各种理论知识
+- ![码上生财](githubpng.png)  
 
 
 # 目录
